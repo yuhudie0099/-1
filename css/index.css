@@ -161,7 +161,7 @@
 	background: url(../img/phone2.png) no-repeat center;
 	position: absolute;
 	left: 50%;
-	margin-left: -464px;
+	margin-left: -330px;
 	bottom: 0;
 	z-index: 2;
 }
@@ -208,7 +208,7 @@
 	background: url(../img/bg-3.png);
 }
 .screen-3_wrap{
-	width: 1200px;
+	width: 1100px;
 	height: 800px;
 	margin:0 auto;
 position: relative;
@@ -279,7 +279,7 @@ color:#fff;
 	overflow: hidden;
 }
 .screen-4_wrap{
-	width: 1200px;
+	width: 1176px;
 	height: 800px;
 	margin:0 auto;
 position: relative;
